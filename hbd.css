@@ -236,8 +236,8 @@ a:hover
 
 .card .front {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 107%;
+  height: 105%;
   margin: -10px 0px 0px -10px;
   border: 10px solid #73BFB5;
   backface-visibility: hidden;
@@ -263,8 +263,8 @@ a:hover
 
 .card .back {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 104%;
+  height: 104%;
   border: 10px solid #73BFB5;
   margin: -10px 0px 0px -10px;
   backface-visibility: visible;
